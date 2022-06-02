@@ -8,7 +8,7 @@ const CONFIG = {
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Làm người yêu anh nhé ',
-    btnYes: 'oke luôn <33',
+    btnYes: 'oke luôn <3',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu mình  <3',
     btnReply: 'Gửi cho anh <3',
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Cuối tuần sau, đi uống tà tưa với a nha baby .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: '//https://www.facebook.com/frog.apk/'
+    messLink: 'https://www.youtube.com/watch?v=QzAB0B8XMIY'
 }
